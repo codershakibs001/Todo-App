@@ -122,7 +122,6 @@ class _PaymentScreenState extends State<PaymentScreen> {
                       ],
                     ),
 
-                    // For "Completed" tab (you can use a similar layout for the second tab if needed)
                     Column(
                       children: [
                         const SizedBox(height: 10),
